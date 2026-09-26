@@ -1,0 +1,1 @@
+Generic clean visibility-transition fixture.
